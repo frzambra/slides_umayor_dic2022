@@ -115,7 +115,7 @@ editor: visual
   
 2. `FONDEF IDEA I+D 2021:` 
     - `Título:` Sistema Satelital para la Optimización de Riego (`SatOri`)
-    - `Periodo:` 2021-2023
+    - `Periodo:` 2022-2023
   
 3. `FSEQ210022:` 
     - `Título:` Observatorio de Sequía Multiescala para Chile
