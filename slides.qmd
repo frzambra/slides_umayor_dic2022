@@ -1,0 +1,142 @@
+---
+#title: "HEMERA <br> Centro de Observación de la Tierra"
+title: "Encuentro de Investigadores"
+author: "Dr. Francisco Zambrano"
+date: "15 diciembre 2022"
+title-slide-attributes:
+  data-background-image: img/background_title-slide.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+footer: https://hemera.umayor.cl
+format: revealjs
+editor: visual
+---
+
+## Investigación {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+
+>Uso de datos de observación de la tierra para entender los impactos del clima en los `recursos hídricos` y en la `vegetación` en Chile.
+
+::: columns
+
+::: {.column width="50%"}
+**Temas:**
+
+-   Sequía
+
+-   Variables ambientales
+
+-   Recursos hídricos
+
+-   Dinámica de la vegetación
+
+
+:::
+
+
+::: {.column width="50%"}
+**Escalas:**
+
+-   Regional (>250m resolución espacial)
+
+-   Local (< 30m resolución espacial)
+:::
+:::
+
+![](img/clima_tierra.jpg){width=10%}
+![](img/prec.jpeg){width=10%}
+![](img/climate_change_help.jpg){width=15%}
+![](img/drought_art.jpg){width=15%}
+![](img/satelite_art.png){width=10%}
+
+## Investigación: escala regional {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+
+::: columns
+::: {.column width="30%"}
+**SPEI-24**  
+![](mp4/SPEI-24_1981-2019.mp4){width=31%}  
+:::
+::: {.column width="65%"}
+**Uso de Suelo**  
+![](img/landcover_pers.png){width=75%}
+
+:::
+:::
+`(Zambrano et al., 2023)`
+
+## Investigación: escala local {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+
+::: {.column-screen}
+![](mp4/dem_aconcagua.mp4){fig-align="center" width=70%}
+:::
+
+## Investigación: escala local {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+
+::: {.column-screen}
+
+```{=html}
+<iframe width="780" height="500" src="html/mapa_la_esperanza.html" title="Quarto Documentation"></iframe>
+```
+
+:::
+## Trabajo Interdisciplinario {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+
+- Centros en la Universidad
+  - `CGB`: Centro de Genómica y Bioninformática
+  - `CEM`: Centro de Modelación y Monitoreo de Ecosistemas
+  - `GEMA`: Centro de Genómica, Ecología y Medio Ambiente
+  
+- Escuelas en la Universidad:
+  - Ingeniería en Medio Ambiente
+  - Ciencia de Datos
+  - Agronomía
+  
+::: {layout-nrow=1}
+![](img/logo_cgb.png){width=25%}
+![](img/logo_cem.png){width=30%}
+![](img/logo_gema.png){width=25%}
+:::
+
+## Trabajo Interdisciplinario {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+
+- Entidades externas:
+  - ![](img/logo_minagri.png){width=30px}`SEGRA:` Sección de Emergencias y Gestión de Riesgos Agroclimáticos del Ministerio de Agricultura.
+  - ![](img/logo_garces.png){width=30px}`Garces Fruit:` empresa agrícola exportadora de cerezas, ciruelas, duraznos, nectarines y kiwis.
+  - ![](img/logo_cer.png){width=30px}`CER Analytics:` empresa de `business intelligence` para el apoyo en la toma de decisiones en la industria agrícola basada en el análisis de grandes cantidades de datos.
+  - ![](img/logo_laec.png){width=30px}`Liceo Agrícola El Carmen de San Fernando:` Liceo agrícola pertenciencte a la red SNA Educa de la Sociedad Nacional de Agricultura (SNA).
+  - ![](img/logo_UC.png){width=30px}`Pontificia Universidad Católica de Chile:` Facultad de Agronomía e Ingeniería Forestal.
+
+## Proyectos {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+
+**Director:**
+
+1. `FONDECYT de Iniciación 2019:` 
+    - `Título:` The impact of weather variability on wheat and maize production: an improved early warning model for agricultural drought
+    - `Periodo:` 2019-2023
+  
+2. `FONDEF IDEA I+D 2021:` 
+    - `Título:` Sistema Satelital para la Optimización de Riego (`SatOri`)
+    - `Periodo:` 2021-2023
+  
+3. `FSEQ210022:` 
+    - `Título:` Observatorio de Sequía Multiescala para Chile
+    - `Periodo:` 2022-2023
+
+## Proyectos {.smaller background-image="img/logo_hemera.jpg" background-position="97.5% 2.5%" background-size="20%" layout="true"}
+  
+**Investigador Principal**
+
+1. `Anillo 2021 (ACT210007):` 
+    - `Título:` Modeling of Epigenetic Gene Regulatory Networks in sweet cherry floral buds in response to differential seasonal climate conditions.
+    - `Institución:` Universidad Mayor, CGB
+    - `Directora:` Dra. Andrea Miyasaka
+  
+2. `FONDECYT Regular 2021`: 
+    - `Título:` Multivariate drought monitor system
+    - `Institución:` Universidad Católica
+    - `Director:` Dr. Francisco Meza
+    
+# Encuentro de Investigadores {background-color="green"}
+
+Hemera Centro de Observación de la Tierra
+
+Dr. Francisco Zambrano (francisco.zambrano@umayor.cl)
